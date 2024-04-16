@@ -1,4 +1,4 @@
-<h1>Hi there I'm Igor Valamiel👋</h1>
+<h1>Hi there, I'm Igor Valamiel👋</h1>
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
