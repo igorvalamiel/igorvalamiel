@@ -11,6 +11,6 @@
 
 <div>
   <p>
-    Sou Igor Valamiel Peixoto Nunes, estudante de 19 anos de Engenharia de Computação e Informação na UFRJ, apaixonado por tecnologia e inovação. Tenho experiência em programação com Python, desenvolvendo scripts e aplicações, além de habilidades em tradução de textos técnicos de inglês para português. Busco sempre compartilhar projetos acadêmicos e pessoais que refletem meu interesse por desenvolvimento de software, automação e análise de dados. Estou sempre em busca de oportunidades para colaborar em projetos desafiadores e inovadores, onde posso aplicar e expandir meus conhecimentos.
+    Sou Igor Valamiel Peixoto Nunes, estudante de 20 anos de Engenharia de Computação e Informação na UFRJ, apaixonado por tecnologia e inovação. Tenho experiência em programação com Python, desenvolvendo scripts e aplicações, além de habilidades em tradução de textos técnicos de inglês para português. Busco sempre compartilhar projetos acadêmicos e pessoais que refletem meu interesse por desenvolvimento de software, automação e análise de dados. Estou sempre em busca de oportunidades para colaborar em projetos desafiadores e inovadores, onde posso aplicar e expandir meus conhecimentos.
   </p>
 </div>
