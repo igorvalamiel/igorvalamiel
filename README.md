@@ -3,6 +3,7 @@
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=whit"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
 </div>
   <img src="	https://github-readme-stats.vercel.app/api/top-langs/?username={igorvalamiel}&theme=blue-green"/>
 </div>
