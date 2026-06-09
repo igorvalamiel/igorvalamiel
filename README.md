@@ -17,6 +17,6 @@
   <hr>
   
   <p>
-    I am an undergraduate student in Computer and Information Engineering at the Federal University of Rio de Janeiro (UFRJ), currently in my fourth semester. I have experience as a teaching assistant in Logic Circuits and Algorithms and Programming, as well as participation in competitive programming activities. I am proficient in Python, C++, JavaScript, and SQL. I consider myself organized, proactive, and capable of working well in teams, often taking on leadership roles in academic and extracurricular projects.
+    I am an undergraduate student in Computer and Information Engineering at the Federal University of Rio de Janeiro (UFRJ), currently in my 5th semester. I have experience as a teaching assistant in Logic Circuits and Algorithms and Programming, as well as participation in competitive programming activities. I am proficient in Python, C++, JavaScript, and SQL. I consider myself organized, proactive, and capable of working well in teams, often taking on leadership roles in academic and extracurricular projects.
   </p>
 </div>
