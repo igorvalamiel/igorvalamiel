@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQL-4d8ef7?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
-  <img src="	https://github-readme-stats.vercel.app/api/top-langs/?username={igorvalamiel}&theme=blue-green"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorvalamiel&theme=dark)](https://github.com/igorvalamiel/github-readme-stats)
 </div>
 
 <div>
