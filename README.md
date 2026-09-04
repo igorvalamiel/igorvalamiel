@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQL-4d8ef7?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorvalamiel&theme=dark"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=igorvalamiel&include_all_commits=true&theme=chartreuse-dark"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=igorvalamiel&layout=compact&langs_count=5&theme=chartreuse-dark"/>
 </div>
 
 <div>
